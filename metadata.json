@@ -1,0 +1,5 @@
+{
+  "name": "НЕЙРОБОТ",
+  "description": "A dual-mode AI chat interface featuring a standard user mode and a secure Admin mode for advanced prompt engineering and model configuration.",
+  "requestFramePermissions": []
+}
